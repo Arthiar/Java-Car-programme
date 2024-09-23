@@ -1,0 +1,1 @@
+Car{id=3, brand='Ford', model='Focus', year=2015, color='White', price=10000.0, registrationNumber='DEF789'}
